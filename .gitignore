@@ -1,2 +1,4 @@
 *.osm.pbf
 src/Mapas/mexico-251207.osm.pbf
+*.pdf
+*.xlsx
